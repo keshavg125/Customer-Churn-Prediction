@@ -1,10 +1,5 @@
-# Customer-Churn-Prediction
+# Telco-Customer-Churn-Prediction
 Machine Learning project on the Telco Customer Churn dataset – includes EDA, preprocessing, SMOTE for class imbalance, and model comparison (Random Forest, XGBoost, LightGBM). Best model (LightGBM) achieved ~79% accuracy and ~64% recall on churners.
-
-# Telco Customer Churn Prediction
-
-This project predicts customer churn using the **Telco Customer Churn dataset**.  
-The goal is to identify customers likely to leave a telecom service provider, enabling proactive retention strategies.  
 
 ---
 
