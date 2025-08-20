@@ -32,7 +32,3 @@ The goal is to identify customers likely to leave a telecom service provider, en
 - **Languages**: Python  
 - **Libraries**: scikit-learn, XGBoost, LightGBM, imbalanced-learn, pandas, numpy, matplotlib, seaborn  
 - **Environment**: Jupyter Notebook  
-
----
-
-## 📂 Repository Structure
