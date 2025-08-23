@@ -4,7 +4,7 @@ Machine Learning project on the Telco Customer Churn dataset – includes EDA, p
 ---
 
 ## 📊 Project Overview
-- **Dataset**: IBM Telco Customer Churn dataset (~7,043 records).  
+- **Dataset**: Telco Customer Churn dataset (~7,043 records).  
 - **Objective**: Predict whether a customer will churn (leave) or not.  
 - **Approach**:  
   - Exploratory Data Analysis (EDA) & feature engineering.  
